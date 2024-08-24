@@ -12,4 +12,6 @@ Submit Button:
     --If the user confirms, it shows a "Successful Signup!" alert.
     --If the user cancels, it resets the form fields.
 
-Additionally used 
+Additionally used:
+    display: grid;
+    place-items: center;
