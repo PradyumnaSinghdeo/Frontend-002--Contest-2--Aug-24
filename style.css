@@ -1,0 +1,48 @@
+h1{
+    padding-left: 30px;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+.success {
+    color: green;
+    font-size: 12px;
+}
+#signupForm{
+    padding-left: 30px;
+    
+}
+div{
+    padding-top: 10px;
+}
+button{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px ;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+#email{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 10px ;
+    height: 25px;
+    width: 300px;
+
+}
+#password{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 10px ;
+    height: 25px;
+    width: 300px;
+
+}
+body{
+    margin: 0;
+    display: grid;
+    place-items: center;
+}
